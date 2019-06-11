@@ -7,8 +7,5 @@ public class demo01 {
         System.out.println("hello world");
         System.out.println("hello world");
     }
-    public void method1(){
-        System.out.println("hahaha");
-    }
 
 }
