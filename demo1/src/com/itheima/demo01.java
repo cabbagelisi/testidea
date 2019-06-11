@@ -8,4 +8,7 @@ public class demo01 {
         System.out.println("hello world");
     }
 
+    public void method2() {
+        System.out.println("aaaa");
+    }
 }
